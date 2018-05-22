@@ -1,0 +1,17 @@
+{
+  "name": "vaadin-grid-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@polymer/polymer": "^3.0.2",
+    "@vaadin/vaadin-grid": "^5.0.0-pre.4",
+    "@webcomponents/webcomponentsjs": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "Apache-2.0"
+}
